@@ -1,0 +1,78 @@
+body{
+  background-color: #7FFFD4;
+}
+h1{
+  
+  text-align: center;
+  color:peru;
+  }
+
+.formulario{
+  text-align: center;
+  
+}
+
+Button{
+  text-align: center;
+  border-color: black;
+}
+
+p{
+  
+  line-height: 300px;
+  white-space: nowrap;
+  
+  font-size: 1.02em;
+  color: #484848;
+}
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu-h{
+    background-color: #008B8B;
+    text-align: center;
+}
+
+#menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .8s;
+    
+}
+
+#menu-h ul li a:hover {
+    background-color:#008B8B;
+}
+.butao{
+  text-align: center;
+   background-color:white;
+   color: #fff;
+   width: 200px;
+   padding: 5px;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+  
+}
+.paragrafo{
+
+
+    text-align: justify;
+
+}
